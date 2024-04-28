@@ -138,7 +138,9 @@ Self-taught frontend developer using free open bits of knowledge.
 
 ### PORTFOLIO PROJECTS
 
-[Rick and Morty](https://rickandmorty-2024.vercel.app/) - A simple web app with a list of characters from the Rick and Morty series. The app is built with React, TypeScript, and CSS Modules. The app uses the Rick and Morty's GraphQl API to fetch the data 'https://rickandmortyapi.com/'.  
+[bitcoin-wallet](https://github.com/kotkoa/bitcoin-wallet/) - Bitcoin Testnet Wallet: A minimalist web application built using React.js, Next.js, and Redux Toolkit. This app provides functionalities for users to create a Bitcoin address, view a list of transactions, and send a specified amount of bitcoins to a designated address.
+[simple-auth-app](https://github.com/Kotkoa/simple-auth-app) - My portfolio of projects showcasing web applications with secure authentication. It features built-in support for Google and Microsoft OAuth authentication alongside a standard username and password login system.
+[Rick and Morty](https://rickandmorty-2024.vercel.app/) - A simple web app with a list of characters from the Rick and Morty series. The app is built with React, TypeScript, and CSS Modules. The app uses the Rick and Morty's GraphQl API to fetch the data '<https://rickandmortyapi.com/>'.  
 [Email template](https://kotkoa.github.io/newsletter/) - A simple responsive newsletter template designed to inform subscribers about upcoming events. The design incorporates responsive web design techniques, ensuring the newsletter looks great on both desktop and mobile screens. The template is coded in HTML with inline CSS for styling. Hosted on GitHub Pages, it's easily accessible for preview.  
 [Weight Converter](https://weightconverter.vercel.app/) - Converter designed to convert weight between metric (kilograms) and imperial (pounds) units. This component is part of a larger application. The converter is built with React, TypeScript, and Tailwind CSS.
 
