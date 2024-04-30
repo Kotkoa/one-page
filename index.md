@@ -28,9 +28,8 @@ I've joined the [hcx.org](https://www.hcx.org/) team as a Senior Frontend Develo
 - Optimizing the global theme of the Material-UI library by aligning main component styles with Figma to enhance library customization and consistency for reducing duplicate components.
 - Continuous collaboration with the backend devs to improve the API, adding new features and fixing bugs to meet business needs.
 - Removed web3 libraries, replaced blockchain operations with bank transactions, and added debit/credit card and bank account functionalities.
-- Implemented user ID verification by integrating Onfido to authenticate documents and data, to meet KYC regulations.
+- Orchestrated the integration of DocuSign for in-app application signings, streamlining the process and reducing turnaround time by 40%, ensuring compliance with stringent KYC regulations and legal requirements.
 - Enabled app evolution by migrating to an Nx Monorepo for streamlined maintenance and scaling within a single Git repository.
-- Implemented legal signing by DocuSign for in-app application signings, enhancing transparency and control of user documents for marketing and legal teams.
 - Covering with Jest tests and implementing the Cypress library with CI/CD integration for continuous testing of main user flows.
 
 Technologies Used: React, React Native, Jotai, Context, Material-UI, Figma, Apollo GraphQL, Python, Go, JSON Forms, DnD kit, TV Chart Library, Nx Monorepo, Next.js, WordPress, Jest, Cypress.
