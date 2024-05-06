@@ -4,7 +4,7 @@
 
 **[kotkoa@gmail.com](mailto:kotkoa@gmail.com)** | residence: Spain + work-permit | +34-647-185-406
 [Linkedin](https://www.linkedin.com/in/kotkoa) | [Github](https://github.com/Kotkoa) | [Twitter](https://twitter.com/Kotkoa)
-[Telegram: @Kotkoa](https://t.me/Kotkoa) | [Download CV](/assets/Andriy%20Kotko%20CV.pdf) | [online CV](https://kotkoa.github.io/my-cv/)
+[Telegram: @Kotkoa](https://t.me/Kotkoa) | [Download CV](assets/Andriy_Kotko_CV.pdf) | [online CV](https://kotkoa.github.io/my-cv/)
 
 ### ABOUT ME
 
